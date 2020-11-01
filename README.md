@@ -6,7 +6,7 @@
 
 ## 爬取页面示例
 
-![image](https://github.com/sun830910/Taipei_QA_Matching/blob/master/img/result1.jpeg)
+![image](https://github.com/sun830910/wjx_crawler/blob/master/img/demo.png)
 
 ## 需求
 
